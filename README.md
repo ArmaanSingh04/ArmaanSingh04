@@ -1,1 +1,1 @@
-[~🚀] sudo github load my cooked profile
+`[~🚀] sudo github load my cooked profile`
